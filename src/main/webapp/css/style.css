@@ -1,0 +1,243 @@
+#onlinePlayers {
+	font-family: sans-serif;
+	color: white;
+	margin-top: 10px;
+	margin-left: 20px;
+	float: left;
+}
+
+#hiPlayer {
+	font-family: sans-serif;
+	color: white;
+	margin-top: 10px;
+	margin-right: 20px;
+	float: right;	
+}
+
+
+#randomly a{
+	float: left; 
+	color: black; 
+	text-decoration: none;
+}
+
+#randomly a:hover{
+	color: black;
+}
+
+#randomly{
+	margin-top: 30px;
+}
+
+#title{
+	text-align: center;
+	margin-left: 50%;
+	font-size: 40px;
+	color: #193420;
+	background-color: #62A976;
+	margin: 0;
+}
+
+#body{
+	background-color: #C9F4D5;
+}
+
+#help{
+	margin-top: 10px;
+	background-color: #ACE1BB;
+	margin-left: 450px;
+	margin-right: 450px;
+	height: 40px;
+}
+
+#helpText{
+	position: relative;
+	top: 10px;
+	text-align: center;
+	font-size: 20px;
+	font-family: sans-serif;	
+}
+
+#battlefieldOpponent{
+	margin-bottom: 0;
+	border-collapse:collapse;
+}
+
+#battlefieldOpponent td{
+	width: 30px;
+	height: 30px;
+	border: 1px solid;
+	text-align: center;
+}
+
+#battlefield{
+	margin-bottom: 0;
+}
+
+#numerationLines td{
+	text-align: right;
+	font-family: monospace;
+	font-size: 13px;
+	height: 30px;
+	padding-right: 5px;
+}
+
+#numerationColumns td{
+	padding-bottom: 2px;
+	font-family: monospace;
+	font-size: 13px;
+	text-align: center;
+	width: 30px;
+}
+
+#attacker {
+	float: left;
+	margin-left: 10%;
+	margin-top: 60px;
+}
+
+#protector {
+	float: right;
+}
+
+#protectorGlobal {
+	margin-right: 18%;
+	margin-top: 60px;
+	background-color: #C9F4D5;
+	opacity:0.35;
+}
+
+#signatureField{
+	margin-top: 10px;
+	text-align: center;
+	font-size: 13px;
+	font-family: monospace;
+}
+
+#availableShips{
+	margin-top: 60px;
+	float: left;
+}
+
+#shipScript td{
+	width: 25px;
+	height: 25px;
+	border: 1px solid;
+}
+
+#shipScript{
+	cursor: pointer;
+	float: left;
+	margin-bottom: 15px;
+	margin-right: 10px;
+}
+
+#ships{
+	margin-bottom: 0;
+}
+
+#ships li{
+	overflow: hidden;
+}
+#ships table{
+	background: transparent;
+	-webkit-transition:background 0.5s;
+	transition:background 0.5s;
+}
+#ships table.active{
+	background: #378DB9;
+}
+
+#error{
+	font-family: monospace;
+	text-align: center;
+}
+
+#get-array{
+	margin-top: 180px;
+	margin-left: 3%;
+	float: left;
+}
+
+.wounded{
+	background:	#72c8f3;		
+}
+
+#field{
+	margin-bottom: 0;
+	border-collapse:collapse;
+}
+#field td{
+	width:30px;
+	height:30px;
+	border:1px solid;
+	text-align: center;
+}
+
+#field td.hover{
+	background: #378DB9;
+}
+#battlefieldOpponent td.hover{
+	background: #378DB9;
+}
+
+#field td.ship{
+	background: #378DB9;
+}
+#battlefieldOpponent td.ship{
+	background: #378DB9;
+}
+
+#field td.around{
+	background:	#9CDCFC;
+}
+#battlefieldOpponent td.around{
+	background:	#9CDCFC;
+}
+
+
+
+.footer{
+	margin-left: auto;
+	margin-right: auto;
+	padding: 1px 0px;
+	margin-top: 40%;
+	background-size: 100%;
+}
+
+.author{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0;
+	color: darkgreen;
+	font-family: sans-serif;
+	font-size: 13px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
